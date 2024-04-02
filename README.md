@@ -55,6 +55,15 @@ python app.py --order_data_path your_order_data.csv --item_cost_path your_item_c
 ```
 Replace your_order_data.csv and your_item_cost_data.csv with the paths to your CSV files if they are different from the defaults.
 
+your_order_data.csv.csv
+This CSV file can be downloaded directly if your business takes orders from Google forms. A few columns are required for modularity to work: 
+* Column that contains date data
+* Column that contains email data
+* Columns that match Item names in your_item_cost_data.csv
+
+your_item_cost_data.csv
+This CSV file should list all the items or services offered by your business, along with their costs and prices. The structure is as follows: [Item, Cost, Price]
+
 3. **Access the Dashboard**
 
 Open a web browser and navigate to http://127.0.0.1:8022/ (or the port you specified). See Line 369.
