@@ -28,8 +28,8 @@ These instructions will get you a copy of the project up and running on your loc
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/jewelry-business-kpi-dashboard.git
-cd jewelry-business-kpi-dashboard
+git clone [[https://github.com/leannmendoza/DS5500-Capstone.git)](https://github.com/leannmendoza/DS5500-Capstone.git)
+cd DS5500-Capstone
 ```
 2. **Set up a virtual environment (Optional but recommended)**
 ```bash
