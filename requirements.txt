@@ -1,0 +1,5 @@
+sys
+argparse
+dash==2.6.2
+pandas==1.4.2
+plotly==5.8.0
