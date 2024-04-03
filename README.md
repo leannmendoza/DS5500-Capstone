@@ -25,7 +25,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. **Clone the repository**
 
 ```bash
-git clone [[https://github.com/leannmendoza/DS5500-Capstone.git)](https://github.com/leannmendoza/Modular_KPI_Dashboard.git)
+git clone [[https://github.com/leannmendoza/Modular_KPI_Dashboard.git)](https://github.com/leannmendoza/Modular_KPI_Dashboard.git)
 cd Modular_KPI_Dashboard
 ```
 2. **Set up a virtual environment (Optional but recommended)**
@@ -48,9 +48,10 @@ Ensure you have the jewelry_order_form.csv and jewelry_prices.csv files in the r
 2. **Start the Dash app**
 
 ```bash
-python app.py --order_data_path your_order_data.csv --item_cost_path your_item_cost_data.csv
+python dashboard.py --order_data_path your_order_data.csv --item_cost_path your_item_cost_data.csv --date_column_name OrderDate --email_column_name Email
 ```
 Replace your_order_data.csv and your_item_cost_data.csv with the paths to your CSV files if they are different from the defaults.
+Replace OrderDate and Email with the column name that contains the date data and customer email data
 
 your_order_data.csv.csv
 This CSV file can be downloaded directly if your business takes orders from Google forms. A few columns are required for modularity to work: 
