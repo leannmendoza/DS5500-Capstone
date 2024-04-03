@@ -1,6 +1,3 @@
-# DS5500-Capstone
-Modular Data Dashboard for Microbusinesses
-
 # Modular Business KPI Dashboard
 
 This project is a Dash-based web application designed to visualize key performance indicators (KPIs) for a micro business, like a private handmade jewelry seller. It features a comprehensive dashboard that displays financial metrics, customer satisfaction indices, and product performance insights, allowing for effective business strategy planning and performance evaluation.
@@ -28,8 +25,8 @@ These instructions will get you a copy of the project up and running on your loc
 1. **Clone the repository**
 
 ```bash
-git clone [[https://github.com/leannmendoza/DS5500-Capstone.git)](https://github.com/leannmendoza/DS5500-Capstone.git)
-cd DS5500-Capstone
+git clone [[https://github.com/leannmendoza/DS5500-Capstone.git)](https://github.com/leannmendoza/Modular_KPI_Dashboard.git)
+cd Modular_KPI_Dashboard
 ```
 2. **Set up a virtual environment (Optional but recommended)**
 ```bash
