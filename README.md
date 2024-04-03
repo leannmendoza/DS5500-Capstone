@@ -25,7 +25,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. **Clone the repository**
 
 ```bash
-git clone [[https://github.com/leannmendoza/Modular_KPI_Dashboard.git)](https://github.com/leannmendoza/Modular_KPI_Dashboard.git)
+git clone https://github.com/leannmendoza/Modular_KPI_Dashboard.git
 cd Modular_KPI_Dashboard
 ```
 2. **Set up a virtual environment (Optional but recommended)**
