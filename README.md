@@ -2,6 +2,8 @@
 
 This project is a Dash-based web application designed to visualize key performance indicators (KPIs) for a micro business, like a private handmade jewelry seller. It features a comprehensive dashboard that displays financial metrics, customer satisfaction indices, and product performance insights, allowing for effective business strategy planning and performance evaluation.
 
+Read more via my blog post here: https://leannmendoza.squarespace.com/work/democratizing-data-driven-decisions-developing-no-cost-modular-kpi-dashboard-kit-for-small-business-entrepreneurs
+
 ## Features
 
 - **Financial KPIs Overview**: Visualizes monthly and annual revenue, costs, and profits to assess the financial health and growth of the business.
