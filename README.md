@@ -1,6 +1,17 @@
-# Modular Business KPI Dashboard
+# Democratizing Data-Driven Decisions: An Open-Source Modular KPI Dashboard Kit for Small Business Entrepreneurs
 
-This project is a Dash-based web application designed to visualize key performance indicators (KPIs) for a micro business, like a private handmade jewelry seller. It features a comprehensive dashboard that displays financial metrics, customer satisfaction indices, and product performance insights, allowing for effective business strategy planning and performance evaluation.
+## Abstract
+The digital age presents significant opportunities and challenges for small businesses, especially in utilizing data analytics for informed decision-making. High costs and technical complexities often preclude small entrepreneurs from accessing sophisticated data tools, especially in budding/early ventures. This project introduces a no-cost, modular Key Performance Indicator (KPI) dashboard utilizing open-source technologies like Plotly and Dash, aimed at empowering small business owners by simplifying data analysis. This dashboard allows users to upload CSV files to track and visualize KPIs relevant to financial health, customer satisfaction, and product performance. The current version allows enhanced accessibility to data analytics, fostering more informed business decisions among entrepreneurs.
+
+## Introduction:
+In 2020, the United States witnessed an unprecedented surge in entrepreneurship, marking a 24% increase in business applications from the previous year. Despite this growth, small businesses, which constitute 99.9% of U.S. enterprises, face high failure rates due to inadequate planning and insufficient data insights. The necessity for accessible and intuitive data analytics tools is evident [1]. This project aims to address these challenges by developing an open-source, modular KPI dashboard to aid small business owners in data-driven decision-making without the burden of high costs or complexity.
+
+Currently retail commerce sights include built-in analytics tools like [Square](https://squareup.com/us/en/point-of-sale/features/dashboard/analytics) and [Shopify](https://www.shopify.com/analytics), where entrepreneurs can post their products and track analytics; however, these sites come with hefty price tags and subscription fees - which can be unfeasible for a new entrepreneur who is still establishing their business viability.
+
+Thus, in this project, we envision a free, open-source solution for retail commerce/product sales analytics by simply uploading a few CSV files.
+
+## Project Overview
+This project is a Dash-based [2] web application designed to visualize key performance indicators (KPIs) for a micro business, like a private handmade jewelry seller. It features a comprehensive dashboard that displays financial metrics, customer satisfaction indices, and product performance insights, allowing for effective business strategy planning and performance evaluation.
 
 Read more via my blog post here: https://leannmendoza.squarespace.com/work/democratizing-data-driven-decisions-developing-no-cost-modular-kpi-dashboard-kit-for-small-business-entrepreneurs
 
@@ -73,8 +84,11 @@ Open a web browser and navigate to http://127.0.0.1:8022/ (or the port you speci
 * Dash - The main framework used for creating the web application.
 * Plotly - Used for creating interactive charts.
 
-### Authors
+### Statement of Contributions:
+Leann Mendoza: Conceptualization, design, and implementation of the dashboard, as well as drafting the manuscript.
 
-LeAnn Mendoza - Initial work - leannmendoza
+## References:
+[1] U.S. Small Business Administration. (2020). "Small Business GDP: Update 2002-2020." U.S. Small Business Administration Office of Advocacy. This source provides statistics on the importance and economic impact of small businesses in the U.S.
+[2] Plotly Technologies Inc. (2022). "Plotly and Dash Documentation." https://plotly.com/. This documentation helped in using Plotly and Dash frameworks for building interactive web applications.
 
 
